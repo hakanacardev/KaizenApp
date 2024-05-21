@@ -10,7 +10,8 @@ interface Colors {
     red: '#F40000',
     black: '#1D1E1C',
     border: '#ECEEEF',
-    white: '#fff'
+    white: '#fff',
+    
   }
   
   export default colors;
